@@ -2,7 +2,7 @@
 pragma solidity ^0.8.13;
 import "@openzeppelin/contracts/access/Ownable.sol";
 
-contract DirectorCBTC is Ownable {
+contract Director is Ownable {
     struct dataProvider {
         string companyName;
         bool isActive;

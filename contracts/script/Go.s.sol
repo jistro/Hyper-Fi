@@ -2,7 +2,7 @@
 pragma solidity ^0.8.13;
 
 import {Script, console} from "forge-std/Script.sol";
-import {Director} from "../src/citrea/Director.sol";
+import "../src/Director.sol";
 
 contract GoScript is Script {
     //Counter public counter;
