@@ -1,5 +1,6 @@
 .container {
   padding: 0 2rem;
+  background: radial-gradient(80.97% 80.97% at 50% 19.03%, #EAFBFF 0%, #BAF2FF 100%), #FFF;
 }
 
 .main {
